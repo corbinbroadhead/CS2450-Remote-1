@@ -50,3 +50,24 @@ Example process:
 (This is an example of a design pattern as well)
 
 	Use draw.io, use circles to indicate starts and stops, connect sections by using matching numbers. Decisions ask 'yes' or 'no', they have exactly two paths. Simple processes have as many options going into it, but only one going out (round boxes). 
+Date: 9.22.25. Subject: Pitch deck. 
+	Impactful presentation keys: 
+		1. Who's the audience?
+		2. What are the goals?
+		3. Follow design principles
+	Design elements: Text size, color, and element size are all important. Bold and italics help draw attention to key ideas. Color can convey all kinds of information. Size and count of elements change the emphasis of the page. 5-9 is the sweet spot for elements on a slide. Information density is a critical consideration. Pictures tell a 1,000 words. Good pictures can tell 10,000.
+	Color can:
+		1. Communicate emotion and evoke feelings
+		2. Highligh elements
+		3. ...
+	Red is for some kind of ALERT.
+	Yellow is for highlighting changes or new things
+	Green is for good things or familiar things
+	Gray is for out of scopre or not of consequence
+	Blue for neutral or existing things
+	Orange to pay attention or for things that are changing
+	"The world according to Jeff. ^"
+	Coming back to central ideas can really help to cement the ideas in people's minds.
+	 
+Date: 9.26.25. Subject: Pitch deck.
+	The legionaries went out an had a meeting in the whiteboard room by room 116. We hashed some things out and made solid progress on the presentation. I tried to get everyone to coordinate so our presentation looked professional but no one listened. I may have to restyle some things once people have done their slides.

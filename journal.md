@@ -71,3 +71,13 @@ Date: 9.22.25. Subject: Pitch deck.
 	 
 Date: 9.26.25. Subject: Pitch deck.
 	The legionaries went out an had a meeting in the whiteboard room by room 116. We hashed some things out and made solid progress on the presentation. I tried to get everyone to coordinate so our presentation looked professional but no one listened. I may have to restyle some things once people have done their slides.
+Date: 10.3.25. Subject: Project management. 
+	Gantt charts can be used to track multiple details: expected duration for an assignment, dependencies, progress, and who is assigned to what. I have used Gantt charts at my job once for Washington City so it's cool to see it in class now.
+	Kanban boards organize items by level of difficulty: Easy, medium, hard, very hard. Items start in the "To do" section, then you move it to the "In progress" section and start working on it. Once done, you move it to the "done" column and start again.
+	The Gantt chart is very detailed and requires at least one person to manage it. The Kanban board swings the pendulum in the other direction and only requires the team of engineers. 
+	Definition of 'done': 
+		1- complete the work
+		2- unit testing
+		3- user acceptance test
+		4- fix any found issues
+		5- ready for production (merge request)

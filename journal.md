@@ -81,3 +81,29 @@ Date: 10.3.25. Subject: Project management.
 		3- user acceptance test
 		4- fix any found issues
 		5- ready for production (merge request)
+Date: 10.6.25: Subject: Implementation.
+	Considerations:
+		1. Many people working together
+			a. Dependencies
+			b. Differences of opinion
+			c. Differences in engagement and levels of capability
+			d. Personal issues
+			e. Office space - environment
+		2. Company Goals
+			a. Pressing deadlines
+			b. Cost control
+			c. Reputation
+		3. Technical Complexity
+			a. Tools
+			b. Processes
+			c. Management
+			d. Culture
+	"We can't do anything til x is done with z." <- this sucks. Figure out something to do. 
+	Whiteboard example for office space, facilities people vs engineer.
+	We've learned: SLDC, Git, Collaboration, soft skills, self organization.
+	We will learn: More SDLC, more git, more collaboration, ethics, cybersecurity, building a portfolio.
+	Manifesto for Agile Software Development
+	Scrum: 
+		1. Each person talks about what they are working on
+		2. If people need help with what they are working on
+		3. Organize extra meetings if necessary

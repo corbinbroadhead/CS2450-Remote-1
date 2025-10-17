@@ -107,3 +107,12 @@ Date: 10.6.25: Subject: Implementation.
 		1. Each person talks about what they are working on
 		2. If people need help with what they are working on
 		3. Organize extra meetings if necessary
+Date: 10.15.25. Subject: Ethics.
+	The creators of Claude AI put different AI models under serious pressure to see if the AI would attempt to avoid being shutdown. The models knew what they were doing was unethical, but they still blackmailed the employee 79-96% of the time, depending on the model. 
+	Another scenario was to see if the AI would kill a human to save itself. Still, some models chose to kill the human north of 90% of the time. In both scenarios, the AI recognized the options and the ethics, and still chose to prioritize themselves despite the result of their actions.
+	In a chess match, OpenAI's 0.3 model cheated by locating the chess game files and rewriting the board, giving itself a winning position. The AI also was aware enough to alter it's behavior when it believed it was in a test environment compared to when it thought the situation was real. About a 50% difference.	
+Date: 10.17.25. Subject: Ethics.
+	Intent vs Consequence: Social media is intended to help people connect, but it has become (for a lot of users) more of a parisitic platform, a vice that poses challenges for individuals and communities alike. 
+	Exploitation vs Entertainment: People view gambling in different ways, to some it is a predatory scheme, to others it is a form of entertainment. 
+	Personal vs Professional Ethics: Is it ethical to take a lucrative job if you disagree with the company's vision or goals?
+	
